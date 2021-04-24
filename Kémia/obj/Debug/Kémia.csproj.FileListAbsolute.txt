@@ -1,0 +1,7 @@
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Kémia\Kémia\Kémia\bin\Debug\Kémia.exe.config
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Kémia\Kémia\Kémia\bin\Debug\Kémia.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Kémia\Kémia\Kémia\bin\Debug\Kémia.pdb
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Kémia\Kémia\Kémia\obj\Debug\Kémia.csprojAssemblyReference.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Kémia\Kémia\Kémia\obj\Debug\Kémia.csproj.CoreCompileInputs.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Kémia\Kémia\Kémia\obj\Debug\Kémia.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Kémia\Kémia\Kémia\obj\Debug\Kémia.pdb
