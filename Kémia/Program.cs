@@ -44,6 +44,7 @@ namespace Kémia
             Regex rx = new Regex(Pattern);
             Match match;
             string vegyjel;
+            Console.Write("5. feladat: ");
             do
             {
               Console.Write("Kérek egy vegyjelet: ");
@@ -57,6 +58,7 @@ namespace Kémia
             bool vanevegyjel = false;
             for (int i = 0; i < adatok.Count; i++)
             {
+                Console.WriteLine("6. feladat: Keresés");
                 if (adatok[i].Vegyjel.ToUpper() == vegyjel.ToUpper())
                 {
                     vanevegyjel = true;
@@ -89,7 +91,8 @@ namespace Kémia
         }
         private static void StatisztikaLinQ()
         {
-            adatok.GroupBy(j => j.Ev).Where(g => g.Count() > 3 && g.Key != "Ókor").ToList().ForEach(a => Console.WriteLine($"{a.Key}: {a.Count()} db"));
+            Console.WriteLine("8. feladat: Statisztika");
+            adatok.GroupBy(j => j.Ev).Where(g => g.Count() > 3 && g.Key != "Ókor").ToList().ForEach(a => Console.WriteLine($"\t{a.Key}: {a.Count()} db"));
         }
     }
     class Felfedezesek 
